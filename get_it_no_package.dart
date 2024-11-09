@@ -1,3 +1,6 @@
+/*
+Küçük bir not: bloc ile get_it'i beraber kullanabiliriz. (BlocProvider.value ile)
+ */
 // Basit bir servis lokator sınıfı
 class ServiceLocator {
   // Private constructor
